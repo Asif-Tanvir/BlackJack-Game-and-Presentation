@@ -1,0 +1,1 @@
+This is project done in a Final assignment for making a game by using object oriented programming(Python). So here is the full details. Anyone can check, update and fix bugs or anything you want to do. Get going.
